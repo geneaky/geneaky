@@ -1,4 +1,9 @@
 ### Hi there 👋
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeneaky&count_bg=%23E310DF&title_bg=%23E9D939&icon=&icon_color=%23EF0AE8&title=hits&edge_flat=false"/></a>
+</br>
+<h2> 💻 Tech Stack </h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=geneaky&show_icons=true" alt="geneaky"/>
 
 <!--
 **geneaky/geneaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
