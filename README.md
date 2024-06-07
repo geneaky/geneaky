@@ -12,8 +12,18 @@
 <img src="https://github-readme-stats.vercel.app/api?username=geneaky&show_icons=true" alt="geneaky"/>
 
 
+</br>
+</br>
+</br>
 
-
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/geneaky?pet-id=586787385161628735"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 <!--
 **geneaky/geneaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
